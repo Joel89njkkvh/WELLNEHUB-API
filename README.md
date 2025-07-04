@@ -1,10 +1,17 @@
-# Proyecto Integrador WELLNEHUB-API
+# Proyecto FastAPI - LanaApp
 
-## Instalación de dependencias
+## Requisitos previos
 
-Para ejecutar este proyecto, asegúrate de tener instalado Python 3.10+ y pip. Luego, ejecuta los siguientes comandos en tu terminal:
+- Python 3.10 o superior
+- `pip` instalado
 
+---
+
+## 1. Crear un entorno virtual
+
+Antes de instalar las dependencias, crea un entorno virtual para mantener aislado el entorno de desarrollo:
+
+**Windows:**
 ```bash
-pip install -r requirements.txt
-pip install email-validator
-pip install python-multipart
+python -m venv env
+env\Scripts\activate
