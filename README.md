@@ -1,4 +1,4 @@
-# Proyecto FastAPI - LanaApp
+# Proyecto Integrador WELLNEHUB-API
 
 ## Instalación de dependencias
 
